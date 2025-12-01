@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Healthcare Claims Risk Engine: End-to-End RCM Analysis & Fraud Prediction Pipeline
 
 ## 📊 Project Overview
@@ -179,13 +180,16 @@ start Healthcare_Claims_Analysis.xlsx
 
 ## 📧 Contact
 
-**Author**: [Your Name]  
-**LinkedIn**: [Your LinkedIn]  
-**Email**: [Your Email]  
-**GitHub**: [Your GitHub]
+**Author**: Rafi Uddin  
+**LinkedIn**: [www.linkedin.com/in/rafi-uddin15](https://www.linkedin.com/in/rafi-uddin15)  
+**Email**: rafiuddinofficial@gmail.com  
+**GitHub**: [https://github.com/Rafi-Uddin15](https://github.com/Rafi-Uddin15)
 
 ---
 
 ## 📄 License
 
 This project uses publicly available Kaggle data for educational purposes.
+=======
+# Healthcare-Claims-Risk-Engine
+>>>>>>> db447652475a6ca9539c021301c65a2425f2f866

@@ -168,15 +168,11 @@ start Healthcare_Claims_Analysis.xlsx
 
 ## 💼 Portfolio Highlights
 
-**For Augmedix / RCM Roles**:
+**For RCM Roles**:
 - Demonstrates understanding of claims data structure
 - Shows ability to identify financial anomalies
 - Proves proficiency in tools used by RCM analysts (SQL, Excel, Power BI)
 
-**Interview Talking Points**:
-> *"I built an end-to-end fraud detection pipeline using real healthcare claims data. I engineered features from 40,000+ claims, trained a Random Forest model achieving X% accuracy, and created executive dashboards in Power BI. The project identified $2M+ in suspicious claims for further investigation."*
-
----
 
 ## 📧 Contact
 

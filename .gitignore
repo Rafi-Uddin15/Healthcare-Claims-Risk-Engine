@@ -1,7 +1,11 @@
-# Data Files (Too large for GitHub)
-*.csv
-*.xlsx
-*.pbix
+# Data Files (Raw data is too large)
+Train_*.csv
+
+# Allowed Results
+!analysis_output.xlsx
+!Healthcare_Claims_Analysis.xlsx
+!High_Risk_Providers.csv
+!Master_Table.csv
 
 # Python
 __pycache__/

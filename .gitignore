@@ -1,0 +1,12 @@
+# Data Files (Too large for GitHub)
+*.csv
+*.xlsx
+*.pbix
+
+# Python
+__pycache__/
+*.pyc
+
+# System
+.DS_Store
+Thumbs.db
